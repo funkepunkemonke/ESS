@@ -1,4 +1,4 @@
-# Chapter ?: The Tectonic Cycle
+# Chapter 3: The Tectonic Cycle
 
 Mountains such as the Alps or Appalachians that seem changeless to us are only transient wrinkles when viewed from the perspective of geologic time. Mountain ranges grow when fragments of moving lithosphere collide, heaving masses of twisted and deformed rock upward. Then the mountains are slowly worn away, leaving only the eroded roots of an old mountain range to record the ancient collision. The continents are slowly moving, sometimes bumping into each other and creating a new mountain range, sometimes splitting apart so that a new ocean basin forms. 
 

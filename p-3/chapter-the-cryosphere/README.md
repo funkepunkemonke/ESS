@@ -1,4 +1,4 @@
-# Chapter ?: The Cryosphere
+# Chapter 8: The Cryosphere
 
 Among the planets of the solar system, only Earth has an overall bluish color, imparted by the vast expanse of world ocean. Nevertheless, the polar regions of the northern and southern hemispheres appear largely white because of an extensive, perennial cover of snow and ice. In the northern hemisphere, much of the ice floats as a thin sheet on the Arctic Ocean, whereas in the southern hemisphere it consists of a vast glacier system that overlies the continent of Antarctica and adjacent islands and seas, as well as floating sea ice that extends far beyond the coastline. The vast mantles of polar ice are linked in important ways to the ocean and the atmosphere. They are involved in the generation of cold, dense water that drives deep-ocean circulation. They influence the albedo \(reflectivity\) of the planet, drive major wind systems, and play an important role in world climate. They are extremely dynamic features, which fluctuate seasonally as well as on geologic timescales. Earth’s great reservoirs of frozen water are the subject of this chapter.
 

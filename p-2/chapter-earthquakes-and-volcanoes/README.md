@@ -1,2 +1,2 @@
-# Chapter ?: Earthquakes and Volcanoes
+# Chapter 4: Earthquakes and Volcanoes
 

@@ -1,2 +1,2 @@
-# Chapter ?: Rocks and Minerals
+# Chapter 5: Rocks and Minerals
 

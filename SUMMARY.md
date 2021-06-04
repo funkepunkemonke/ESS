@@ -34,7 +34,7 @@
 
 ## Part 2: THE GEOSPHERE <a id="p-2"></a>
 
-* [Chapter ?: The Tectonic Cycle](p-2/chapter-the-tectonic-cycle/README.md)
+* [Chapter 3: The Tectonic Cycle](p-2/chapter-the-tectonic-cycle/README.md)
   * [INTERNAL STRUCTURE OF EARTH](p-2/chapter-the-tectonic-cycle/internal-structure-of-earth.md)
   * [The Discovery of Plate Tectonics](p-2/chapter-the-tectonic-cycle/the-discovery-of-plate-tectonics.md)
   * [The Plates and Their Boundaries](p-2/chapter-the-tectonic-cycle/the-plates-and-their-boundaries.md)
@@ -47,7 +47,7 @@
   * [Plate Tectonics And The Earth System Today](p-2/chapter-the-tectonic-cycle/plate-tectonics-and-the-earth-system-today.md)
   * [Exercise: Drawing Local Connections](p-2/chapter-the-tectonic-cycle/exercise-drawing-local-connections.md)
   * [Chapter Summary](p-2/chapter-the-tectonic-cycle/chapter-summary.md)
-* [Chapter ?: Earthquakes and Volcanoes](p-2/chapter-earthquakes-and-volcanoes/README.md)
+* [Chapter 4: Earthquakes and Volcanoes](p-2/chapter-earthquakes-and-volcanoes/README.md)
   * [EARTHQUAKES](p-2/chapter-earthquakes-and-volcanoes/earthquakes/README.md)
     * [MEASURING AND LOCATING EARTHQUAKES](p-2/chapter-earthquakes-and-volcanoes/earthquakes/measuring-and-locating-earthquakes.md)
     * [EARTHQUAKE RISK](p-2/chapter-earthquakes-and-volcanoes/earthquakes/earthquake-risk.md)
@@ -55,7 +55,7 @@
     * [PREDICTING ERUPTIONS AND RISK](p-2/chapter-earthquakes-and-volcanoes/volcanism/predicting-eruptions-and-risk.md)
   * [Exercise: THE EARTH MOVES](p-2/chapter-earthquakes-and-volcanoes/exercise-the-earth-moves.md)
   * [End of Chapter Summary](p-2/chapter-earthquakes-and-volcanoes/end-of-chapter-summary.md)
-* [Chapter ?: Rocks and Minerals](p-2/chapter-rocks-and-minerals/README.md)
+* [Chapter 5: Rocks and Minerals](p-2/chapter-rocks-and-minerals/README.md)
   * [Minerals](p-2/chapter-rocks-and-minerals/minerals.md)
   * [Exercise: MINING THE WORLD’S MINERALS](p-2/chapter-rocks-and-minerals/exercise-mining-the-worlds-minerals.md)
   * [THE ROCK CYCLE](p-2/chapter-rocks-and-minerals/rocks.md)
@@ -64,10 +64,10 @@
 
 ## Part 3: HYDROSPHERE <a id="p-3"></a>
 
-* [Chapter ?: The Hydrologic Cycle](p-3/chapter-the-hydrologic-cycle/README.md)
+* [Chapter 6: The Hydrologic Cycle](p-3/chapter-the-hydrologic-cycle/README.md)
   * [WATER AND THE HYDROLOGIC CYCLE](p-3/chapter-the-hydrologic-cycle/water-and-the-hydrologic-cycle.md)
   * [Exercise: A Bird's Eye View of Your Region](p-3/chapter-the-hydrologic-cycle/exercise-a-birds-eye-view-of-your-region.md)
-* [Chapter ?: Water Distribution](p-3/introduction/README.md)
+* [Chapter 7: Water Distribution](p-3/introduction/README.md)
   * [Watersheds](p-3/introduction/watersheds.md)
   * [Urban Waters](p-3/introduction/urban-waters.md)
   * [Streams and Rivers](p-3/introduction/streams-and-rivers.md)
@@ -82,7 +82,7 @@
   * [Oceans](p-3/introduction/oceans.md)
   * [Excercise: WINDS AND OCEAN CURRENTS](p-3/introduction/excercise-winds-and-ocean-currents.md)
   * [End of Chapter Summary](p-3/introduction/end-of-chapter-summary.md)
-* [Chapter ?: The Cryosphere](p-3/chapter-the-cryosphere/README.md)
+* [Chapter 8: The Cryosphere](p-3/chapter-the-cryosphere/README.md)
   * [EARTH’S COVER OF SNOW AND ICE](p-3/chapter-the-cryosphere/earths-cover-of-snow-and-ice.md)
   * [Glaciers](p-3/chapter-the-cryosphere/glaciers.md)
   * [Periglacial Landscapes and Permafrost](p-3/chapter-the-cryosphere/periglacial-landscapes-and-permafrost.md)
@@ -92,27 +92,27 @@
 
 ## Part 4: BIOSPHERE <a id="p-4"></a>
 
-* [Chapter ?: Life](p-4/chapter-life/README.md)
+* [Chapter 9: Life](p-4/chapter-life/README.md)
   * [WHAT IS LIFE? AN OVERVIEW OF BASIC BIOLOGICAL PROCESSES](p-4/chapter-life/what-is-life-an-overview-of-basic-biological-processes.md)
   * [EVOLUTION: THE HISTORY OF LIFE](p-4/chapter-life/evolution-the-history-of-life.md)
   * [Chapter Summary](p-4/chapter-life/chapter-summary.md)
-* [Chapter ?: Ecosystems, Biomes, and Cycles of Life](p-4/untitled/README.md)
+* [Chapter 10: Ecosystems, Biomes, and Cycles of Life](p-4/untitled/README.md)
   * [Exercise: It's All Connected - Global Circulation](p-4/untitled/exercise-its-all-connected-global-circulation.md)
 
 ## Part 5: ATMOSPHERE <a id="p-5"></a>
 
-* [Chapter ?: The Atmosphere](p-5/chapter-the-atmosphere/README.md)
+* [Chapter 11: The Atmosphere](p-5/chapter-the-atmosphere/README.md)
   * [COMPOSITION AND STRUCTURE](p-5/chapter-the-atmosphere/composition-and-structure.md)
   * [WARMING THE ATMOSPHERE](p-5/chapter-the-atmosphere/warming-the-atmosphere.md)
   * [Exercise: WIND POWER](p-5/chapter-the-atmosphere/exercise-wind-power.md)
   * [End of Chapter Summary](p-5/chapter-the-atmosphere/end-of-chapter-summary.md)
-* [Chapter ?: CLIMATE SYSTEMS](p-5/climate-systems/README.md)
+* [Chapter 12: CLIMATE SYSTEMS](p-5/climate-systems/README.md)
   * [Controls on WEATHER AND CLIMATE](p-5/climate-systems/controls-on-weather-and-climate.md)
   * [KÖPPEN CLASSIFICATION SYSTEM](p-5/climate-systems/koeppen-classification-system.md)
   * [EL NINO AND LA NINA](p-5/climate-systems/untitled-1.md)
   * [LONG-TERM CLIMATE CHANGE](p-5/climate-systems/long-term-climate-change.md)
   * [Exercise: Air, Water, Land, & Life- A Global Perspective](p-5/climate-systems/exercise-air-water-land-and-life-a-global-perspective.md)
-* [Chapter ?: Weather Systems and Severe Weather](p-5/weather-systems-and-severe-weather/README.md)
+* [Chapter 13: Weather Systems and Severe Weather](p-5/weather-systems-and-severe-weather/README.md)
   * [Types of Precipitation](p-5/weather-systems-and-severe-weather/moisture-and-humidity.md)
   * [CLOUD TYPES AND FORMATION](p-5/weather-systems-and-severe-weather/cloud-types-and-formation.md)
   * [ATMOSPHERIC PRESSURE AND WIND](p-5/weather-systems-and-severe-weather/atmospheric-pressure-and-wind.md)
@@ -126,7 +126,7 @@
 
 ## Part 6: Anthroposphere <a id="p-6"></a>
 
-* [Chapter ?: ANTHROPOGENIC CLIMATE CHANGE](p-6/anthropogenic-climate-change/README.md)
+* [Chapter 14: ANTHROPOGENIC CLIMATE CHANGE](p-6/anthropogenic-climate-change/README.md)
   * [Exercise: Climate Change](p-6/anthropogenic-climate-change/untitled.md)
   * [IMPACTS ON THE OCEANS](p-6/anthropogenic-climate-change/impacts-on-the-oceans.md)
   * [INTERFERENCE WITH SHORELINES](p-6/anthropogenic-climate-change/interference-with-shorelines.md)

@@ -1,4 +1,4 @@
-# Chapter ?: The Hydrologic Cycle
+# Chapter 6: The Hydrologic Cycle
 
 **Water** is simply two atoms of hydrogen and one atom of oxygen bonded together. Despite its simplicity, water has remarkable properties. Water expands when it freezes, has high surface tension \(because of the polar nature of the molecules, they tend to stick together\), and others. Without water, life might not be able to exist on Earth and it certainly would not have the tremendous complexity and diversity that we see.
 

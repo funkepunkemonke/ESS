@@ -5,7 +5,7 @@ description: >-
   gratification has imbalanced the world’s systems.
 ---
 
-# Chapter ?: ANTHROPOGENIC CLIMATE CHANGE
+# Chapter 14: ANTHROPOGENIC CLIMATE CHANGE
 
 The scientific consensus is clear, in that most scientists who directly study climates and climate change state that the current warming of the planet is anthropogenic. Moreover, all the scientific evidence and vital planetary signs indicate that more greenhouse gases are trapping Earth’s heat, causing average annual global temperatures to rise.  While temperatures have risen since the end of the Pleistocene, roughly 10,000 years ago, most of the warming has occurred since 1900. The nine warmest years on record have all occurred since 1998, and NASA and NOAA reported in 2019 that the year 2018 was the fourth warmest ever recorded on the planet. \(2019 Was 2nd Hottest Year on Record for Earth Say NOAA, NASA \| National Oceanic and Atmospheric Administration, n.d.\) It has now been determined that 2010-2020 was the warmest decade on record, followed by 2000-2010.
 
