@@ -2,6 +2,8 @@
 
 **Water** is simply two atoms of hydrogen and one atom of oxygen bonded together. Despite its simplicity, water has remarkable properties. Water expands when it freezes, has high surface tension \(because of the polar nature of the molecules, they tend to stick together\), and others. Without water, life might not be able to exist on Earth and it certainly would not have the tremendous complexity and diversity that we see.
 
+![](../../.gitbook/assets/image%20%2840%29.png)
+
 ## THREE STATES OF WATER
 
 Because of the unique properties of water, water molecules can cycle through almost anywhere on Earth. The water molecule found in your glass of water today could have erupted from a volcano early in Earth history. In the intervening billions of years, the molecule probably spent time in a glacier or far below the ground. The molecule surely was high up in the atmosphere and maybe deep in the belly of a dinosaur. Where will that water molecule go next?

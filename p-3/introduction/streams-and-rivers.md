@@ -36,9 +36,15 @@ Stream channels can be straight or curved, deep and slow, or rapid and choked wi
 
  In mountainous terrains, steep youthful streams typically flow into broad and low-gradient **U-shaped glaciated valleys**. The youthful streams have high sediment loads, and when they flow into the lower-gradient glacial valleys where the velocity is not high enough to carry all of the sediment, braided patterns develop, characterized by a series of narrow channels separated by gravel bars.
 
+![](../../.gitbook/assets/image%20%2844%29.png)
+
 **Braided streams** can develop anywhere there is more sediment than a stream can transport. One such environment is in volcanic regions, where explosive eruptions produce enormous amounts of unconsolidated material that gets washed into streams. The Coldwater River next to Mt. St. Helens in Washington State is an excellent example.
 
-A stream that occupies a vast, flat flood plain with a low gradient typically carries only sand-sized and finer sediments and develops a sinuous flow pattern. When a stream flows around a corner, the water on the outside has farther to go and tends to flow faster. This leads to erosion of the banks on the outside of the curve, deposition on the inside, and formation of a point bar. Over time, the sinuosity of the stream becomes increasingly exaggerated, and the channel migrates around within its flood plain, forming a meandering pattern.
+![](../../.gitbook/assets/image%20%2849%29.png)
+
+A stream that occupies a vast, flat flood plain with a low gradient typically carries only sand-sized and finer sediments and develops a sinuous flow pattern. When a stream flows around a corner, the water on the outside has farther to go and tends to flow faster. This leads to erosion of the banks on the outside of the curve, deposition on the inside, and formation of a point bar. Over time, the sinuosity of the stream becomes increasingly exaggerated, and the channel migrates around within its flood plain, forming a **meandering pattern**. Sometimes a stream bypasses the channel loop between the upstream and downstream segments of a meander, cutting it off and converting it into an arc-shaped **oxbow lake**.
+
+![In this meandering stream near Phnom Penh, Cambodia, light-colored point bars, composed of gravelly alluvium, lie opposite the steep banks on the outside of the meander loops. Two oxbow lakes, the product of past meander cutoffs, lie adjacent to the present channel.](../../.gitbook/assets/image%20%2847%29.png)
 
 ## RIVERS
 

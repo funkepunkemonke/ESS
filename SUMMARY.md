@@ -36,8 +36,11 @@
   * [The Grand Reconstruction](p-2/chapter-the-tectonic-cycle/the-grand-reconstruction.md)
   * [Mantle Convection: The Engine of Plate Tectonics](p-2/chapter-the-tectonic-cycle/mantle-convection-the-engine-of-plate-tectonics.md)
   * [The Theory of Plate Tectonics and the Scientific Method](p-2/chapter-the-tectonic-cycle/the-theory-of-plate-tectonics-and-the-scientific-method.md)
+  * [Topography of Ocean Basins](p-2/chapter-the-tectonic-cycle/topography-of-ocean-basins.md)
   * [Divides](p-2/chapter-the-tectonic-cycle/divides.md)
+  * [Plate Tectonics And The Earth System Today](p-2/chapter-the-tectonic-cycle/plate-tectonics-and-the-earth-system-today.md)
   * [Exercise: Drawing Local Connections](p-2/chapter-the-tectonic-cycle/exercise-drawing-local-connections.md)
+  * [Chapter Summary](p-2/chapter-the-tectonic-cycle/chapter-summary.md)
 * [Chapter ?: Earthquakes and Volcanoes](p-2/chapter-earthquakes-and-volcanoes/README.md)
   * [EARTHQUAKES](p-2/chapter-earthquakes-and-volcanoes/earthquakes/README.md)
     * [MEASURING AND LOCATING EARTHQUAKES](p-2/chapter-earthquakes-and-volcanoes/earthquakes/measuring-and-locating-earthquakes.md)
@@ -55,6 +58,7 @@
 ## Part 3: HYDROSPHERE <a id="p-3"></a>
 
 * [Chapter ?: The Hydrologic Cycle](p-3/chapter-the-hydrologic-cycle/README.md)
+  * [WATER AND THE HYDROLOGIC CYCLE](p-3/chapter-the-hydrologic-cycle/water-and-the-hydrologic-cycle.md)
   * [Exercise: A Bird's Eye View of Your Region](p-3/chapter-the-hydrologic-cycle/exercise-a-birds-eye-view-of-your-region.md)
 * [Chapter ?: Water Distribution](p-3/introduction/README.md)
   * [Watersheds](p-3/introduction/watersheds.md)
@@ -71,6 +75,7 @@
   * [Oceans](p-3/introduction/oceans.md)
   * [Excercise: WINDS AND OCEAN CURRENTS](p-3/introduction/excercise-winds-and-ocean-currents.md)
   * [End of Chapter Summary](p-3/introduction/end-of-chapter-summary.md)
+* [Chapter ?: The Cryosphere](p-3/chapter-the-cryosphere.md)
 
 ## Part 4: BIOSPHERE <a id="p-4"></a>
 

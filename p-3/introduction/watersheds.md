@@ -4,6 +4,8 @@
 
 A watershed – the land area that drains to one stream, lake or river – affects the water quality in the water body that it surrounds. Like water bodies \(e.g., lakes, rivers, and streams\), individual watersheds share similarities but also differ in many ways. Every inch of the United States is part of a watershed – in other words, all land drains into a lake, river, stream or other water body and directly affects its quality. Because we all live on the land, we all live in a watershed — thus watershed condition is important to everyone.
 
+![The drainage basin of the Mississippi River encompasses most of the midwestern United States and extends into southern Canada.](../../.gitbook/assets/image%20%2842%29.png)
+
 Watersheds exist at different geographic scales, too. The Mississippi River has a huge watershed that covers all or parts of 33 states. You might live in that watershed, but at the same time you live in a watershed of a smaller, local stream or river that flows eventually into the Mississippi. EPA’s healthy watersheds activities mainly focus on these smaller watersheds.
 
 A healthy watershed is one in which natural land cover supports:
