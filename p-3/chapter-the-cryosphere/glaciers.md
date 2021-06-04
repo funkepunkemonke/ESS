@@ -2,29 +2,29 @@
 
 Wherever the amount of snow falling each winter is greater than the amount that melts during the following summer, the snow pack grows progressively thicker. Gradually, the deeper snow recrystallizes into denser ice under the increasing weight of overlying snow. When the snow and ice become so thick that the pull of gravity causes the frozen mass to move, a glacier is born. Accordingly, we define a glacier as a persistent body of ice, consisting largely of recrystallized snow, which shows evidence of slow downslope or outward movement under the influence of gravity. 
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2850%29.png)
 
 Glaciers vary considerably in shape and size. We recognize several fundamental types:
 
 A. The smallest, a cirque glacier, occupies a protected, bowl-shaped depression \(a cirque\) on a mountainside that is produced by glacial erosion.
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
 B. A cirque glacier that expands outward and downward into a valley becomes a valley glacier.
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
 C. Ice caps cover mountain highlands or low lying land at high latitudes and generally flow radially outward from their center.
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](../../.gitbook/assets/image%20%2859%29.png)
 
 D. Along some high-latitude seacoasts, nearly every large valley glacier occupies a deep fjord, the drowned seaward end of a glacier carved bedrock trough. Such glaciers are called fjord glaciers.
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
 E. When a valley glacier flows all the way out of the mountains and spreads out onto the surrounding lowlands, it is called a piedmont glacier.
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 Many of Earth’s high mountain ranges contain glacier systems that include glaciers tens of kilometers long, each heading in one or several cirques. Huge continent-sized **ice sheets** overwhelm nearly all the land surface within their margins. Earth’s large ice sheets, which are now confined to Greenland and Antarctica, include about 95 percent of the ice in existing glaciers and reach thicknesses of 3000 m or more. Several small ice sheets are found among the Canadian Arctic islands. Floating ice shelves hundreds of meters thick occupy large embayments along the coasts of Antarctica. Ice shelves are a form of sea ice, which we will discuss in greater detail later in the chapter.
 
@@ -62,7 +62,7 @@ When an accumulating mass of snow and ice on a mountainside reaches a critical t
 
 In contrast to deeper parts, where the ice flows as a result of internal creep, the surface portion of a glacier has relatively little weight on it and is brittle. Where a glacier passes over an abrupt change in slope, such as a bedrock cliff, the surface ice cracks as tension pulls it apart. When a crack opens up, it forms a crevasse, a deep, gaping fissure in the upper surface of a glacier, generally less than 50 m deep. Continuous flow of ice prevents crevasses from forming at depths greater than about 50 m. Because it cracks at the surface and yet flows at depth, a glacier is analogous to the outer part of Earth’s geosphere, which includes a surface zone that cracks and fractures \(the brittle lithosphere\) and a deeper zone \(in the upper mantle\) that can flow slowly.
 
-![](../../.gitbook/assets/image%20%2860%29.png)
+![](../../.gitbook/assets/image%20%2861%29.png)
 
 #### Basal Sliding
 
@@ -72,7 +72,7 @@ Ice temperature is very important in controlling the way a glacier moves and its
 
 During the last century and a half, many coastal Alaskan glaciers have receded at rates far in excess of typical glacier retreat rates on land. Their dramatic recession is characterized by frontal calving, the progressive breaking off of icebergs from the front of a glacier that terminates in deep water. Although the base of a fjord glacier may lie far below sea level along much of its length, its terminus can remain stable as long as it is resting \(or “grounded”\) against a shoal \(a shallow submarine ridge. However, if the terminus retreats off the shoal, water will replace the space that had been occupied by ice. With the glacier now terminating in water, conditions are right for calving. Once started, calving will continue rapidly and irreversibly until the glacier front recedes into water too shallow for much calving to occur, generally near the head of the fjord.
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+![](../../.gitbook/assets/image%20%2863%29.png)
 
 Icebergs produced by calving glaciers constitute an ever-present hazard to ships in subpolar seas. In 1912, when the S.S. Titanic sank after striking an iceberg in the North Atlantic Ocean, the detection of approaching bergs relied on the sharpness of sailors’ vision. Today, with sophisticated electronic equipment, large bergs can generally be identified well before an encounter. Nevertheless, ice has a density of 0.9 gm/cm3 \(compared to 1.0 gm/cm3 for water\), which means that 90 percent of an iceberg lies under water, making it difficult to detect. In coastal Alaska, where calving glaciers are commonplace, icebergs pose a potential threat to huge oil tankers. For this reason, Columbia Glacier, which lies adjacent to the main shipping lanes from Valdez at the southern end of the Alaska Pipeline, is being closely monitored as its terminus pulls steadily back and multitudes of bergs are released.
 

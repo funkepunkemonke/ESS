@@ -2,7 +2,7 @@
 
 Snow and glacial ice originate as precipitation, but some ice forms by the solidification of water at the surface, without falling as precipitation. Approximately two thirds of the area of Earth’s persistent ice cover floats as a thin veneer of **sea ice** on polar oceans. It is vast in its extent, but sea ice comprises only about 1/1000 of Earth’s total volume of ice. 
 
-![Arctic sea ice typically reaches its minimum in September, at the end of the summer melt season, and then recovers over the winter. This satellite image shows the extent of sea ice at its minimum point for the year 2005,](../../.gitbook/assets/image%20%2856%29.png)
+![Arctic sea ice typically reaches its minimum in September, at the end of the summer melt season, and then recovers over the winter. This satellite image shows the extent of sea ice at its minimum point for the year 2005,](../../.gitbook/assets/image%20%2857%29.png)
 
 An interesting feature of sea ice is that it consists of fresh water; the salt that is characteristic of seawater is excluded from the ice crystals as they form. Thus the formation of sea ice is one of the important Earth processes that control the salinity of ocean water. In periods of global coolness, when more sea ice forms, the ocean becomes saltier; in periods of global warmth, when sea ice melts, fresh water is released and the ocean becomes less salty.
 
@@ -10,7 +10,7 @@ An interesting feature of sea ice is that it consists of fresh water; the salt t
 
 Once the ocean surface cools to the freezing point of seawater, slight additional cooling leads to ice formation. The first ice to form consists of small crystalline platelets and needles up to 3 or 4 mm in diameter that collectively are termed frazil ice. As more ice crystals form, they produce a soupy mixture at the ocean surface. In the absence of waves or turbulence, the crystals freeze together to form a continuous cover of ice 1 to 10 cm thick. If waves are present, the crystals form rounded, pancake-like masses up to 3 m in diameter that eventually weld together into a continuous sheet of sea ice. 
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 
 
 

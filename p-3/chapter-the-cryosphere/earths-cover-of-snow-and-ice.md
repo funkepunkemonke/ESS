@@ -4,7 +4,7 @@ The part of Earth’s surface that remains perennially frozen constitutes the **
 
 Although concentrated in the polar regions, parts of the cryosphere can be found at nearly all latitudes, which make them useful indicators of global climate and climate change. Different parts of the cryosphere change on different timescales ranging from less than a day to more than a millennium, as shown in the figure below. Scientists keep a close watch on the cryosphere and patterns in how the cryosphere changes over time to find important clues about the health of our planet.
 
-![](../../.gitbook/assets/image%20%2857%29.png)
+![](../../.gitbook/assets/image%20%2858%29.png)
 
 ### Snow
 

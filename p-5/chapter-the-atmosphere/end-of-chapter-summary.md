@@ -34,7 +34,11 @@
 
 ## Summary
 
-**H**
+**What is the climate system?** • Major components of the Earth’s climate system are the atmosphere, hydrosphere, lithosphere, and biosphere. Refer to Figure 15.1. • Earth’s surface would be much colder without the presence of greenhouse gases like water and carbon dioxide in the atmosphere. • Ocean currents play a major role in distributing heat across the Earth because water has a very high capacity for storing heat. • Topography affects climate by influencing the flow of our atmosphere. • Volcanic eruptions affect climate by changing the composition of the atmospheric gases and by adding dust and haze that increase the albedo of the atmosphere. • Various factors may exert a positive or negative feedback on the climate system. In some cases, feedback mechanisms can act to stabilize Earth’s climate, and in other cases they may destabilize it by amplifying climate change. 
+
+**What is the greenhouse effect?** • Carbon dioxide and other trace atmospheric gases act like the glass windows in a greenhouse. They are transparent to sunlight but absorb heat \(infrared radiation\), which warms Earth’s surface environments. Refer to Figure 15.7. 
+
+**How has Earth’s climate changed over time?** • The largest changes are the 100,000-year glacial cycles. • The alternation between glacial and interglacial ages observed during the Pleistocene epoch is explained best by the Milankovitch cycles. Refer to Figure 15.12. • There are also significant short-term climate cycles that average 1,000 and 10,000 years. Refer to Figures 15.11 and 15.19, and note the regularity of these cycles. Note also that we are currently living in the most prolonged stable warm period in the last 400,000 years. • Short-term variations of climate are associated with El Niño events and large volcanic eruptions.
 
 ## Thought Questions
 

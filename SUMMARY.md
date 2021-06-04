@@ -7,6 +7,7 @@
 * [PURPOSE OF THE BOOK](preface/purpose-of-the-book.md)
 * [Approach and Organization of the Book](preface/approach-and-organization-of-the-book.md)
 * [Features](preface/features.md)
+* [How to Study ESS](preface/how-to-study-ess.md)
 * [Why study Earth system science?](preface/why-study-earth-system-science.md)
 
 ## Part 1: The Earth System <a id="p-1"></a>
@@ -24,7 +25,12 @@
   * [The Limitations and Challenges of Understanding Earth Systems](p-1/chapter-1-the-earth-system/the-limitations-and-challenges-of-understanding-earth-systems.md)
   * [End of Chapter Summary](p-1/chapter-1-the-earth-system/end-of-chapter-summary.md)
   * [Exercise: Visit Your Local Study Site](p-1/chapter-1-the-earth-system/chapter-1-assignment-visit-your-local-study-site.md)
-* [Chapter 2: ??](p-1/chapter-2.md)
+* [Chapter 2: Science and Discovery](p-1/chapter-2/README.md)
+  * [Tools Used by Earth Scientists](p-1/chapter-2/tools-used-by-earth-scientists.md)
+  * [Doing Science](p-1/chapter-2/doing-science.md)
+  * [The Characteristics of Good Science](p-1/chapter-2/the-characteristics-of-good-science.md)
+  * [Limitations of Science](p-1/chapter-2/limitations-of-science.md)
+  * [Science and Society](p-1/chapter-2/science-and-society.md)
 
 ## Part 2: THE GEOSPHERE <a id="p-2"></a>
 
@@ -53,6 +59,7 @@
   * [Minerals](p-2/chapter-rocks-and-minerals/minerals.md)
   * [Exercise: MINING THE WORLD’S MINERALS](p-2/chapter-rocks-and-minerals/exercise-mining-the-worlds-minerals.md)
   * [THE ROCK CYCLE](p-2/chapter-rocks-and-minerals/rocks.md)
+  * [Chapter Summary](p-2/chapter-rocks-and-minerals/chapter-summary.md)
   * [Exercise: The Rock Cycle](p-2/chapter-rocks-and-minerals/exercise-the-rock-cycle.md)
 
 ## Part 3: HYDROSPHERE <a id="p-3"></a>
@@ -87,6 +94,8 @@
 
 * [Chapter ?: Life](p-4/chapter-life/README.md)
   * [WHAT IS LIFE? AN OVERVIEW OF BASIC BIOLOGICAL PROCESSES](p-4/chapter-life/what-is-life-an-overview-of-basic-biological-processes.md)
+  * [EVOLUTION: THE HISTORY OF LIFE](p-4/chapter-life/evolution-the-history-of-life.md)
+  * [Chapter Summary](p-4/chapter-life/chapter-summary.md)
 * [Chapter ?: Ecosystems, Biomes, and Cycles of Life](p-4/untitled/README.md)
   * [Exercise: It's All Connected - Global Circulation](p-4/untitled/exercise-its-all-connected-global-circulation.md)
 

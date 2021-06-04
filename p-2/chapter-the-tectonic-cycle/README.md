@@ -12,3 +12,17 @@ This chapter lays out the theory of plate tectonics and how it was discovered, d
 
 ![](../../.gitbook/assets/image%20%2830%29.png)
 
+{% hint style="warning" %}
+### Chapter Preview
+
+What is the theory of plate tectonics?
+
+What are some of the geologic characteristics of plate boundaries?
+
+How can the age of the seafloor be determined?
+
+How is the history of plate movement reconstructed?
+
+What drives plate tectonics?
+{% endhint %}
+
