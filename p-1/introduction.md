@@ -1,10 +1,10 @@
 ---
 description: >-
-  This unit introduces the idea of the earth system and its main components:
-  thegeosphere, atmosphere, hydrosphere and biosphere.
+  This unit introduces the idea of the earth system and its main components: the
+  geosphere, atmosphere, hydrosphere and biosphere.
 ---
 
-# Introduction
+# Overview
 
 
 

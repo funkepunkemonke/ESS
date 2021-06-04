@@ -1,11 +1,16 @@
 # Table of contents
 
 * [Introduction to Earth Systems Science](README.md)
-* [Why study Earth system science?](why-study-earth-system-science.md)
 
-## Part 1: The Earth System Overview <a id="p-1"></a>
+## Preface
 
-* [Introduction](p-1/introduction.md)
+* [Approach and Organization of the Book](preface/approach-and-organization-of-the-book.md)
+* [Features](preface/features.md)
+* [Why study Earth system science?](preface/why-study-earth-system-science.md)
+
+## Part 1: The Earth System <a id="p-1"></a>
+
+* [Overview](p-1/introduction.md)
 * [History](p-1/history.md)
 * [Key Reading: The emergence and evolution of Earth System Science](p-1/the-emergence-and-evolution-of-earth-system-science.md)
 * [The Earth](p-1/the-earth/README.md)
@@ -104,4 +109,8 @@
 * [INTERFERENCE WITH SHORELINES](p-6/interference-with-shorelines.md)
 * [Exercise: A Year in the Life of the Earth System](p-6/exercise-a-year-in-the-life-of-the-earth-system.md)
 * [End of Chapter Summary](p-6/end-of-chapter-summary.md)
+
+## End Stuff
+
+* [Inspiration](end-stuff/inspiration.md)
 
