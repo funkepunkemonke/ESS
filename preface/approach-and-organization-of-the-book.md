@@ -1,10 +1,8 @@
 # Approach and Organization of the Book
 
-
-
 Earth system science draws on knowledge and methods from many fields of the sciences and social sciences, including biology, chemistry, economics, ethics, geography, geology, medicine, physics, political science, sociology, and statistics. Many environmental specialists adopt an interdisciplinary approach to integrate these different ways of knowing in order to help understand and prevent environmental damage. This book also adopts an interdisciplinary approach by drawing on a variety of disciplines. At the same time, however, the choice of topics and the interpretations offered reflect my own experience and world view as an ecologist – one who has had a rather specialized career examining the ecological dimensions of environmental problems.
 
-The book is organized into many chapters that are grouped into six parts:
+Reflecting this emphasis on a systems approach, the book is organized into six parts.
 
 ## Part I <a id="part-i"></a>
 
@@ -28,5 +26,9 @@ The book is organized into many chapters that are grouped into six parts:
 
 ## Part VI <a id="part-vi"></a>
 
-“The Anthroposphere” consists of \# chapter that provides ...
+“The Anthroposphere” consists of \# chapter that provides ....
+
+
+
+Although we have given careful consideration to the organization of the book, we realize that not all instructors may favor the one we have adopted. Therefore, the parts and chapters have been written so that, so far as possible, they stand alone, and that some reorganization of topics is possible without serious loss of continuity
 
