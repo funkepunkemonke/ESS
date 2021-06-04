@@ -75,10 +75,18 @@
   * [Oceans](p-3/introduction/oceans.md)
   * [Excercise: WINDS AND OCEAN CURRENTS](p-3/introduction/excercise-winds-and-ocean-currents.md)
   * [End of Chapter Summary](p-3/introduction/end-of-chapter-summary.md)
-* [Chapter ?: The Cryosphere](p-3/chapter-the-cryosphere.md)
+* [Chapter ?: The Cryosphere](p-3/chapter-the-cryosphere/README.md)
+  * [EARTH’S COVER OF SNOW AND ICE](p-3/chapter-the-cryosphere/earths-cover-of-snow-and-ice.md)
+  * [Glaciers](p-3/chapter-the-cryosphere/glaciers.md)
+  * [Periglacial Landscapes and Permafrost](p-3/chapter-the-cryosphere/periglacial-landscapes-and-permafrost.md)
+  * [SEA ICE](p-3/chapter-the-cryosphere/sea-ice.md)
+  * [ICE IN THE EARTH SYSTEM](p-3/chapter-the-cryosphere/ice-in-the-earth-system.md)
+  * [Exercise: SEA LEVEL RISE](p-3/chapter-the-cryosphere/exercise-sea-level-rise.md)
 
 ## Part 4: BIOSPHERE <a id="p-4"></a>
 
+* [Chapter ?: Life](p-4/chapter-life/README.md)
+  * [WHAT IS LIFE? AN OVERVIEW OF BASIC BIOLOGICAL PROCESSES](p-4/chapter-life/what-is-life-an-overview-of-basic-biological-processes.md)
 * [Chapter ?: Ecosystems, Biomes, and Cycles of Life](p-4/untitled/README.md)
   * [Exercise: It's All Connected - Global Circulation](p-4/untitled/exercise-its-all-connected-global-circulation.md)
 
@@ -112,7 +120,6 @@
 * [Chapter ?: ANTHROPOGENIC CLIMATE CHANGE](p-6/anthropogenic-climate-change/README.md)
   * [Exercise: Climate Change](p-6/anthropogenic-climate-change/untitled.md)
   * [IMPACTS ON THE OCEANS](p-6/anthropogenic-climate-change/impacts-on-the-oceans.md)
-  * [Exercise: SEA LEVEL RISE](p-6/anthropogenic-climate-change/exercise-sea-level-rise.md)
   * [INTERFERENCE WITH SHORELINES](p-6/anthropogenic-climate-change/interference-with-shorelines.md)
   * [Exercise: A Year in the Life of the Earth System](p-6/anthropogenic-climate-change/exercise-a-year-in-the-life-of-the-earth-system.md)
   * [End of Chapter Summary](p-6/anthropogenic-climate-change/end-of-chapter-summary.md)
