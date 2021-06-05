@@ -1,0 +1,6 @@
+# Inputs: The Stuff Life Is Made Of
+
+The organisms of any ecosystem can be subdivided into producers and consumers according to the way they obtain their food, which is their source of energy and nutrients. Producers, or **autotrophs**, are organisms that make their own food. They use energy from sunlight or, in some cases, energy derived from chemicals in their environment to manufacture organic compounds such as carbohydrates. Consumers, or **heterotrophs**, get their food by feeding directly or indirectly on producers. 
+
+It is often said that you are what you eat, and that statement is true not only for humans, but for all organisms. Our foods are all made up of more or less the same materials: molecules composed of carbon, hydrogen, oxygen, nitrogen, phosphorus, and sulfur. So it doesn’t matter whether the organism is an autotroph or a heterotroph, it still utilizes the same six elements as food. What differs is the form \(that is, the molecular structure\) their food comes in. When heterotrophs such as humans eat bread, we are feeding ourselves on carbohydrates: large molecules formed of carbon, hydrogen, and oxygen. Even the lowliest microorganisms dine on carbon-bearing molecules such as carbon dioxide \(CO2\) or methane \(CH4\). The difference is that what is food for a microorganism may not seem like food to us!
+

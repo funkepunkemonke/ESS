@@ -94,9 +94,11 @@
 
 * [Chapter 9: Life](p-4/chapter-life/README.md)
   * [WHAT IS LIFE? AN OVERVIEW OF BASIC BIOLOGICAL PROCESSES](p-4/chapter-life/what-is-life-an-overview-of-basic-biological-processes.md)
+  * [Inputs: The Stuff Life Is Made Of](p-4/chapter-life/inputs-the-stuff-life-is-made-of.md)
   * [EVOLUTION: THE HISTORY OF LIFE](p-4/chapter-life/evolution-the-history-of-life.md)
   * [Chapter Summary](p-4/chapter-life/chapter-summary.md)
 * [Chapter 10: Ecosystems, Biomes, and Cycles of Life](p-4/untitled/README.md)
+  * [Ecosystems](p-4/untitled/ecosystems.md)
   * [Exercise: It's All Connected - Global Circulation](p-4/untitled/exercise-its-all-connected-global-circulation.md)
 
 ## Part 5: ATMOSPHERE <a id="p-5"></a>
