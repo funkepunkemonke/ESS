@@ -102,11 +102,13 @@
 * [Chapter 10: Ecosystems, Biomes, and Cycles of Life](p-4/untitled/README.md)
   * [Ecosystems](p-4/untitled/ecosystems.md)
   * [Conservation](p-4/untitled/conservation.md)
+  * [Key Reading: The Buffalo Commons: Metaphor as Method](p-4/untitled/key-reading-the-buffalo-commons-metaphor-as-method.md)
   * [Exercise: It's All Connected - Global Circulation](p-4/untitled/exercise-its-all-connected-global-circulation.md)
 
 ## Part 5: ATMOSPHERE <a id="p-5"></a>
 
 * [Chapter 11: The Atmosphere](p-5/chapter-the-atmosphere/README.md)
+  * [Key Reading: Navajo Pedagogy and Earth Systems](p-5/chapter-the-atmosphere/key-reading-navajo-pedagogy-and-earth-systems.md)
   * [COMPOSITION AND STRUCTURE](p-5/chapter-the-atmosphere/composition-and-structure.md)
   * [WARMING THE ATMOSPHERE](p-5/chapter-the-atmosphere/warming-the-atmosphere.md)
   * [Exercise: WIND POWER](p-5/chapter-the-atmosphere/exercise-wind-power.md)
