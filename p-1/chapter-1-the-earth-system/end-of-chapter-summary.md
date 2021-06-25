@@ -25,9 +25,7 @@ Earth system science is the holistic study of Earth as a system of many separate
 
 ## Questions
 
-1. How does science differ from religion as a way to understand
-
-   the world?
+1. How does science differ from religion as a way to understand the world?
 
 2. How does viewing Earth as a system of interacting components help us to understand our planet? Give an example of an interaction between two or more systems that could affect the geologic record.
 3. Describe THREE reasons why the Earth is unique relative to other planets and how the reason makes Earth able to sustain life.
