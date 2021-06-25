@@ -28,11 +28,10 @@
 * [Chapter 2: Science and Discovery](p-1/chapter-2/README.md)
   * [Tools Used by Earth Scientists](p-1/chapter-2/tools-used-by-earth-scientists.md)
   * [Doing Science](p-1/chapter-2/doing-science.md)
+  * [Key Reading: Kia pono te mahi putaiao—doing science in theright spirit](p-1/chapter-2/key-reading-kia-pono-te-mahi-putaiao-doing-science-in-theright-spirit.md)
   * [The Characteristics of Good Science](p-1/chapter-2/the-characteristics-of-good-science.md)
   * [Limitations of Science](p-1/chapter-2/limitations-of-science.md)
   * [Science and Society](p-1/chapter-2/science-and-society.md)
-  * [Key Reading: A Feminist Ethic That Binds Us to Mother Earth](p-1/chapter-2/key-reading-a-feminist-ethic-that-binds-us-to-mother-earth.md)
-  * [Key Reading: A Critique of Ecofeminism](p-1/chapter-2/key-reading-a-critique-of-ecofeminism.md)
 
 ## Part 2: THE GEOSPHERE <a id="p-2"></a>
 
@@ -68,6 +67,7 @@
 
 * [Chapter 6: The Hydrologic Cycle](p-3/chapter-the-hydrologic-cycle/README.md)
   * [WATER AND THE HYDROLOGIC CYCLE](p-3/chapter-the-hydrologic-cycle/water-and-the-hydrologic-cycle.md)
+  * [Key Reading: Mātauranga Māori: shaping marine and freshwater futures](p-3/chapter-the-hydrologic-cycle/key-reading-matauranga-maori-shaping-marine-and-freshwater-futures.md)
   * [Exercise: A Bird's Eye View of Your Region](p-3/chapter-the-hydrologic-cycle/exercise-a-birds-eye-view-of-your-region.md)
 * [Chapter 7: Water Distribution](p-3/introduction/README.md)
   * [Watersheds](p-3/introduction/watersheds.md)
@@ -115,6 +115,7 @@
   * [KÖPPEN CLASSIFICATION SYSTEM](p-5/climate-systems/koeppen-classification-system.md)
   * [EL NINO AND LA NINA](p-5/climate-systems/untitled-1.md)
   * [LONG-TERM CLIMATE CHANGE](p-5/climate-systems/long-term-climate-change.md)
+  * [Key Reading: How does Indigeneity intersect with the geosciences?](p-5/climate-systems/key-reading-how-does-indigeneity-intersect-with-the-geosciences.md)
   * [Exercise: Air, Water, Land, & Life- A Global Perspective](p-5/climate-systems/exercise-air-water-land-and-life-a-global-perspective.md)
 * [Chapter 13: Weather Systems and Severe Weather](p-5/weather-systems-and-severe-weather/README.md)
   * [Types of Precipitation](p-5/weather-systems-and-severe-weather/moisture-and-humidity.md)
@@ -136,6 +137,8 @@
   * [INTERFERENCE WITH SHORELINES](p-6/anthropogenic-climate-change/interference-with-shorelines.md)
   * [Exercise: A Year in the Life of the Earth System](p-6/anthropogenic-climate-change/exercise-a-year-in-the-life-of-the-earth-system.md)
   * [End of Chapter Summary](p-6/anthropogenic-climate-change/end-of-chapter-summary.md)
+  * [Key Reading: A Feminist Ethic That Binds Us to Mother Earth](p-6/anthropogenic-climate-change/key-reading-a-feminist-ethic-that-binds-us-to-mother-earth.md)
+  * [Key Reading: A Critique of Ecofeminism](p-6/anthropogenic-climate-change/key-reading-a-critique-of-ecofeminism.md)
 
 ## End Stuff
 
