@@ -38,7 +38,7 @@ A lot of time, money, and research has gone into understanding tornadoes to prov
 
 ### Tradition perspectives on Tornados
 
-This story, entitled "The horse spirit" is from a children's book of Kiowa Stories.
+This story, entitled "The horse spirit" is from a children's book of Kiowa Stories. The Kiowas of the central and southern plains exhibited a special regard for the enigmatic and terrible wind they called MANKAYlA - the tornado.
 
 > In ages long since past, the Kiowa people once lived near the mountains at the edge of the known world. At this time, there were still many mysterious places, charged with strange powers, scattered about the lands. One such place was the clay bank of a clear and meandering river that lay east of the mountains. This mysterious bank was covered with a clay that was as red as the distant sunsets.
 >
