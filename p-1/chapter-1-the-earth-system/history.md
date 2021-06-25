@@ -6,7 +6,7 @@ description: >-
 
 # History
 
-Science has roots outside of the Eurasian peninsula known as Europe.
+Science has roots outside of the Eurasian peninsula known as Europe
 
 Some of the earliest work in the study of biogeochemical cycles and their role in the physical functioning of the planet was by James Hutton \(1788\), who viewed the Earth as a "superorganism, and that its proper study should be by physiology." More than 100 years later, a classic paper by Svante Arrhenius \(1896\) appeared, called "On the influence of carbonic acid in the air on the temperature of the ground." This work provided a paradigm for quantitatively connecting the greenhouse effect of carbon dioxide to climate, as well as to the global biogeochemical cycle of carbon. A truly meaningful study of these issues clearly requires input from nearly all of the natural sciences \(chemistry, physics, biology, geology, meteorology, etc.\). These scientific disciplines, which were still in their early formative stages when Arrhenius' pioneering work emerged, have since evolved over the past century into highly refined and useful, but largely separated entities. Accordingly, most scientists have adopted a reductionist approach to biogeochemistry \(i.e., simplifying large scientific problems into smaller parts to be examined by an individual discipline\). In contrast, as we stated above, one of the goals of Earth system science \(referred to early on as natural philosophy\) is to integrate the natural sciences to strive towards understanding the entire system.
 
