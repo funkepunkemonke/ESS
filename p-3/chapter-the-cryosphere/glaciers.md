@@ -28,7 +28,7 @@ E. When a valley glacier flows all the way out of the mountains and spreads out 
 
 Many of Earth’s high mountain ranges contain glacier systems that include glaciers tens of kilometers long, each heading in one or several cirques. Huge continent-sized **ice sheets** overwhelm nearly all the land surface within their margins. Earth’s large ice sheets, which are now confined to Greenland and Antarctica, include about 95 percent of the ice in existing glaciers and reach thicknesses of 3000 m or more. Several small ice sheets are found among the Canadian Arctic islands. Floating ice shelves hundreds of meters thick occupy large embayments along the coasts of Antarctica. Ice shelves are a form of sea ice, which we will discuss in greater detail later in the chapter.
 
-![](../../.gitbook/assets/image%20%2845%29.png)
+![](../../.gitbook/assets/image%20%2845%29%20%281%29.png)
 
 ### How Glaciers Form
 

@@ -4,7 +4,7 @@
 
 Examples of these parts are the ocean, the atmosphere, continents, lakes and rivers, soils, plants, and animals; each can be studied separately, but each is dependent on and interconnected with the others. Earth system science is a new approach to the study of Earth—a new science—and a new science requires new tools. 
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2829%29%20%287%29.png)
 
 ### A New Science and a New Tool 
 

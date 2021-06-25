@@ -31,6 +31,7 @@
   * [The Characteristics of Good Science](p-1/chapter-2/the-characteristics-of-good-science.md)
   * [Limitations of Science](p-1/chapter-2/limitations-of-science.md)
   * [Science and Society](p-1/chapter-2/science-and-society.md)
+  * [Key Reading: A Feminist Ethic That Binds Us to Mother Earth](p-1/chapter-2/key-reading-a-feminist-ethic-that-binds-us-to-mother-earth.md)
 
 ## Part 2: THE GEOSPHERE <a id="p-2"></a>
 

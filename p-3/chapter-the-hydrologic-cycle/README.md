@@ -2,7 +2,7 @@
 
 **Water** is simply two atoms of hydrogen and one atom of oxygen bonded together. Despite its simplicity, water has remarkable properties. Water expands when it freezes, has high surface tension \(because of the polar nature of the molecules, they tend to stick together\), and others. Without water, life might not be able to exist on Earth and it certainly would not have the tremendous complexity and diversity that we see.
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
 ## THREE STATES OF WATER
 

@@ -6,7 +6,7 @@ description: 'Amanda Suzzi, Fitchburg State University'
 
 > “It is hard to imagine a more important discipline than Earth System Science” – John Lawton in Science magazine, June 15, 2001
 
-![](.gitbook/assets/image%20%2818%29.png)
+![](.gitbook/assets/image%20%2829%29%20%283%29.png)
 
 Earth Systems Science is the study of the complex interrelationships between materials and energy in the atmosphere and in the solid, fluid, and living Earth. Systems Science also involves the study of human interactions with these natural systems. In this course, we will investigate the fundamental processes that drive these systems, focusing on the measurement and representation, and response to change over time. These topics will be presented within the context of a global perspective. During the course we will solve quantitative problems and use mathematical models to describe and assess the impact of humans on Earth's systems.
 
