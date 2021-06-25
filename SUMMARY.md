@@ -53,6 +53,7 @@
     * [MEASURING AND LOCATING EARTHQUAKES](p-2/chapter-earthquakes-and-volcanoes/earthquakes/measuring-and-locating-earthquakes.md)
     * [EARTHQUAKE RISK](p-2/chapter-earthquakes-and-volcanoes/earthquakes/earthquake-risk.md)
   * [VOLCANISM](p-2/chapter-earthquakes-and-volcanoes/volcanism/README.md)
+    * [Key Reading: Bridging Māori indigenous knowledge andwestern geosciences to reduce social vulnerabili](p-2/chapter-earthquakes-and-volcanoes/volcanism/key-reading-bridging-maori-indigenous-knowledge-andwestern-geosciences-to-reduce-social-vulnerabili.md)
     * [PREDICTING ERUPTIONS AND RISK](p-2/chapter-earthquakes-and-volcanoes/volcanism/predicting-eruptions-and-risk.md)
   * [Exercise: THE EARTH MOVES](p-2/chapter-earthquakes-and-volcanoes/exercise-the-earth-moves.md)
   * [End of Chapter Summary](p-2/chapter-earthquakes-and-volcanoes/end-of-chapter-summary.md)
@@ -60,6 +61,7 @@
   * [Minerals](p-2/chapter-rocks-and-minerals/minerals.md)
   * [Exercise: MINING THE WORLD’S MINERALS](p-2/chapter-rocks-and-minerals/exercise-mining-the-worlds-minerals.md)
   * [THE ROCK CYCLE](p-2/chapter-rocks-and-minerals/rocks.md)
+  * [Key Reading: Talking about Race in Earth and Space Science](p-2/chapter-rocks-and-minerals/key-reading-talking-about-race-in-earth-and-space-science.md)
   * [Chapter Summary](p-2/chapter-rocks-and-minerals/chapter-summary.md)
   * [Exercise: The Rock Cycle](p-2/chapter-rocks-and-minerals/exercise-the-rock-cycle.md)
 
@@ -98,11 +100,12 @@
   * [WHAT IS LIFE? AN OVERVIEW OF BASIC BIOLOGICAL PROCESSES](p-4/chapter-life/what-is-life-an-overview-of-basic-biological-processes.md)
   * [Inputs: The Stuff Life Is Made Of](p-4/chapter-life/inputs-the-stuff-life-is-made-of.md)
   * [EVOLUTION: THE HISTORY OF LIFE](p-4/chapter-life/evolution-the-history-of-life.md)
+  * [Key Reading: The Buffalo Commons: Metaphor as Method](p-4/chapter-life/key-reading-the-buffalo-commons-metaphor-as-method.md)
   * [Chapter Summary](p-4/chapter-life/chapter-summary.md)
 * [Chapter 10: Ecosystems, Biomes, and Cycles of Life](p-4/untitled/README.md)
   * [Ecosystems](p-4/untitled/ecosystems.md)
   * [Conservation](p-4/untitled/conservation.md)
-  * [Key Reading: The Buffalo Commons: Metaphor as Method](p-4/untitled/key-reading-the-buffalo-commons-metaphor-as-method.md)
+  * [Key Reading: Indigenous Americans: Spirituality and Ecos](p-4/untitled/key-reading-indigenous-americans-spirituality-and-ecos.md)
   * [Exercise: It's All Connected - Global Circulation](p-4/untitled/exercise-its-all-connected-global-circulation.md)
 
 ## Part 5: ATMOSPHERE <a id="p-5"></a>
