@@ -90,5 +90,55 @@ Extreme pressure may also lead to foliation, the flat layers that form in rocks 
 
 {% embed url="https://youtu.be/1oQ1J0w3x0o" %}
 
+### Native American Rock Mythology
 
+The following is a Blackfoot Indian legend about the origin of rocks.
+
+> A long time ago there were no stones on the earth. The mountains, hills, and valleys were not rough, and it was easy to walk on the ground swiftly. There were no small trees at that time either. All the bushes and trees were tall and straight and were at equal distances. So a man could travel through a forest without having to make a path.
+>
+> At that time, a large buffalo roamed over the land. From the water, he had obtained his spirit power--the power to change anything into some other form. He would have that power as long as he only drank from a certain pool.
+>
+> In his wanderings, Buffalo often travelled across a high mountain. He liked this mountain so much that one day he asked it, "Would you like to be changed into something else?"
+>
+> "Yes," replied the mountain. "I would like to be changed into something nobody would want to climb over."
+>
+> "All right," said Buffalo. "I will change you into something hard that I will call 'stone.' You will be so hard that no one will want to break you and so smooth that no one will want to climb you."
+>
+> So Buffalo changed the mountain into a large stone. "And I give you the power to change yourself into anything else as long as you do not break yourself."
+>
+> Only buffaloes lived in this part of the land. No people lived here. On the other side of the mountain lived men who were cruel and killed animals. The buffaloes knew about them and stayed as far away from them as possible. But one day Buffalo thought he would like to see these men. He hoped to make friends with them and persuade them not to kill buffaloes.
+>
+> So he went over the mountain and travelled along a stream until he came to a lodge. There lived an old woman and her grandson. The little boy liked Buffalo, and Buffalo liked the little boy and his grandmother. He said to them, "I have the power to change you into any form you wish. What would you like most to be?"
+>
+> "I want always to be with my grandson. I want to be changed into anything that will make it possible for me to be with him, wherever he goes."
+>
+> "I will take you to the home of the buffaloes," said their guest. "I will ask them to teach the boy to become a swift runner. I will ask the water to change the grandmother into something, so that you two can always be together."
+>
+> So Buffalo, the grandmother, and the little boy went over the mountain to the land of the buffaloes.
+>
+> "We will teach you to run swiftly," they told the boy, "if you will promise to keep your people from hunting and killing buffaloes."
+>
+> "I promise," said the boy.
+>
+> The buffaloes taught him to run so fast that not one of them could keep up with him. The old grandmother could follow him wherever he went, for she had been changed into Wind.
+>
+> The boy stayed with the buffaloes until he became a man. Then they let him go back to his people, reminding him of his promise. Because he was such a swift runner, he became a leader of the hunters. They called him Eagle Wing.
+>
+> One day the chief called Eagle Wing to him and said to him, "My son, I want you to take the hunters to the buffalo country. We have never been able to kill buffaloes because they run so very fast. But you too can run fast. If you will kill some buffaloes and bring home the meat and the skins, I will adopt you as my son. And when I die, you will become chief of the tribe."
+>
+> Eagle Wing wanted so much to become chief that he pushed from his mind his promise to the buffaloes. He started out with the hunters, but he climbed the mountain so fast that they were soon left far behind. On the other side of the mountain, he saw a herd of buffaloes. They started to run in fright, but Eagle Wing followed them and killed most of them.
+>
+> Buffalo, the great one who got his power from the water, was away from home at the time of the hunt. On his way back he grew so thirsty that he drank from some water on the other side of the mountain not from his special pool. When he reached home and saw what the hunter had done, he became very angry. He tried to turn the men into grass, but he could not. Because he had drunk from another pool, he had lost his power to transform.
+>
+> Buffalo went to the big stone that had once been a mountain.
+>
+> "What can you do to punish the hunter for what he has done?" he asked Stone.
+>
+> "I will ask the trees to tangle themselves so that it will be difficult for men to travel through them," answered Stone. "I will break myself into many pieces and scatter myself all over the land. Then the swift runner and his followers cannot run over me without hurting their feet."
+>
+> "That will punish them," agreed Buffalo.
+>
+> So Stone broke itself into many pieces and scattered itself all over the land. Whenever the swift runner, Eagle Wing, and his followers tried to run over the mountain, stones cut their feet. Bushes scratched and bruised their bodies.
+>
+> That is how Eagle Wing was punished for not keeping his promise to Buffalo.
 
