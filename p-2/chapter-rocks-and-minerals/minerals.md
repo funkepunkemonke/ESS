@@ -150,6 +150,8 @@ Gold, Greed, Genocide, a documentary filmed on location throughout Northern Cali
 
 {% embed url="https://www.youtube.com/watch?v=FeksO\_rGepw" %}
 
+{% embed url="https://www.youtube.com/watch?v=HNP\_-OmkNkE" %}
+
 
 
 ### Blood Diamonds
