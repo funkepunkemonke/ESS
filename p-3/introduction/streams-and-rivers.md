@@ -51,5 +51,21 @@ A stream that occupies a vast, flat flood plain with a low gradient typically ca
 **Rivers** are the largest types of stream, moving large amounts of water from higher to lower elevations. The Amazon River, the world’s river with the greatest flow, has a flow rate of nearly 220,000 cubic meters per second! People have used rivers since the beginning of civilization as a source of water, food, transportation, defense, power, recreation, and waste disposal.  
 
 
+### Native Perspectives on Rivers
+
+Here is our collection of Native American legends and traditional stories about rivers.
+
+> From this legend we learn of the origin of fish, frogs, and turtles. A long, long time ago, Indians settled up the river. A Monster frog forbade these Indians the use of water. Some died from thirst. Their Spirit Chief, Gluskabe, came to help them. He saw how sickly his people seemed. He asked them, "What is your trouble?"
+>
+> "The Monster is killing us with thirst. He forbids us water."
+>
+> "I will make him give you water," Gluskabe replied. The people went with their Chief to see the Monster frog. The Chief said to the Monster, "Why do you abuse our grandchildren? You will be sorry for this treatment of our good people. I will give them water, so all will have an equal share of the water. The benefits should be shared."
+>
+> Gluskabe suddenly grabbed the Monster frog and broke his back. From thenceforth, all bullfrogs are broken-backed. Even then the Monster did not give up the water. So Gluskabe took an axe and cut down a large yellow birch tree, so that when it fell down, the yellow birch tree killed the Monster frog.
+>
+> That is how the Penobscot River originated. The water flowed from the Monster frog. All the branches of the yellow birch tree became rivers, and all emptied into the main Penobscot River.
+>
+> Now, all of the Penobscot Indians were so thirsty, some even near death, that they jumped into the river to enjoy the water inside and outside. Some of them turned into fish; some turned into frogs; some turned into turtles. A few human Penobscots survived. That is the reason they inhabit the whole length of the Penobscot River. This is how they took their family names from all kinds of fish, turtles, and other sea creatures.
+
 
 
