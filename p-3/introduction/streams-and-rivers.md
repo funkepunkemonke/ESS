@@ -48,7 +48,10 @@ A stream that occupies a vast, flat flood plain with a low gradient typically ca
 
 ## RIVERS
 
-**Rivers** are the largest types of stream, moving large amounts of water from higher to lower elevations. The Amazon River, the world’s river with the greatest flow, has a flow rate of nearly 220,000 cubic meters per second! People have used rivers since the beginning of civilization as a source of water, food, transportation, defense, power, recreation, and waste disposal.  
+**Rivers** are the largest types of stream, moving large amounts of water from higher to lower elevations. The Amazon River, the world’s river with the greatest flow, has a flow rate of nearly 220,000 cubic meters per second! People have used rivers since the beginning of civilization as a source of water, food, transportation, defense, power, recreation, and waste disposal.
+
+{% embed url="https://earthdata.nasa.gov/learn/sensing-our-planet/a-tale-of-two-rivers" %}
+
 
 
 ### Native Perspectives on Rivers
