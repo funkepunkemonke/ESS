@@ -36,7 +36,7 @@ A lot of time, money, and research has gone into understanding tornadoes to prov
 
 **Doppler radar** has become vital in determining the location and intensity of precipitation and locating where mesocyclones and tornadoes may be forming. Doppler radar can do this by monitoring the wind’s flow toward or away from the tower, called the **Doppler** **effect**. Click here to view an image of an EF5 tornado approaches the Doppler. Notice a hook echo form in the red and begin rotating counter-clockwise, as most low-pressure systems do in the Northern Hemisphere. Weather satellites have also become instrumental in weather forecasting and monitoring. \(Dastrup, 2014\)
 
-{% embed url="https://www.npr.org/sections/theprotojournalist/2014/06/17/319078684/a-native-american-take-on-tornadoes" %}
+{% embed url="https://www.npr.org/sections/theprotojournalist/2014/06/17/319078684/a-native-american-take-on-tornadoes" caption="Native perspectives are still too-rarely acknowledged." %}
 
 ## Lightning
 
