@@ -32,6 +32,7 @@
   * [Limitations of Science](p-1/chapter-2/limitations-of-science.md)
   * [Science and Society](p-1/chapter-2/science-and-society.md)
   * [Key Reading: A Feminist Ethic That Binds Us to Mother Earth](p-1/chapter-2/key-reading-a-feminist-ethic-that-binds-us-to-mother-earth.md)
+  * [Key Reading: A Critique of Ecofeminism](p-1/chapter-2/key-reading-a-critique-of-ecofeminism.md)
 
 ## Part 2: THE GEOSPHERE <a id="p-2"></a>
 
