@@ -1,5 +1,7 @@
 # How to Study ESS
 
+![](../.gitbook/assets/image%20%2818%29.png)
+
 ## Before Lecture: Preview
 
 The key to taking good notes is to arrive in class with an overview of what will be covered already in mind. That way you will already know what geological processes will be explained and what key questions the lecture will answer. In lecture you can actively listen for answers to those questions. Listening actively with specific questions in mind is guaranteed to result in understanding more of what is said and including more of the key points in your notes.

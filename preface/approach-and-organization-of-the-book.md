@@ -10,7 +10,7 @@ Reflecting this emphasis on a systems approach, the book is organized into six p
 
 ## Part II <a id="part-ii"></a>
 
-“The Geosphere” consists of \# chapters that provide...
+“The Geosphere” consists of 3 chapters that provide...
 
 ## Part III <a id="part-iii"></a>
 
@@ -22,11 +22,11 @@ Reflecting this emphasis on a systems approach, the book is organized into six p
 
 ## Part V <a id="part-v"></a>
 
-“The Atmosphere” consists of \# chapters that deal with ...
+“The Atmosphere” consists of 3 chapters that deal with ...
 
 ## Part VI <a id="part-vi"></a>
 
-“The Anthroposphere” consists of \# chapter that provides ....
+“The Anthroposphere” consists of 1 chapter that provides ....
 
 
 
