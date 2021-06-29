@@ -1,0 +1,12 @@
+# EARTH’S COVER OF SNOW AND ICE
+
+The part of Earth’s surface that remains perennially frozen constitutes the **cryosphere** \(from the Greek words for “icy cold sphere”\). \(Perennial in this context means that it does not melt on a seasonal basis but remains frozen year-round.\) The cryosphere includes not only glaciers and sea ice, but also vast areas of frozen ground that lie beyond the limits of glaciers. Glaciers cover about 10 percent of Earth’s land surface, while perennially frozen ground covers an additional 20 percent. Thus, nearly a third of Earth’s land area currently belongs to the cryosphere. Some of the frozen material in the cryosphere crystallizes in the form of ice on the surface or in the near subsurface, in conditions of low temperature; some falls as precipitation and accumulates on the ground, where it may undergo subsequent changes.
+
+Although concentrated in the polar regions, parts of the cryosphere can be found at nearly all latitudes, which make them useful indicators of global climate and climate change. Different parts of the cryosphere change on different timescales ranging from less than a day to more than a millennium, as shown in the figure below. Scientists keep a close watch on the cryosphere and patterns in how the cryosphere changes over time to find important clues about the health of our planet.
+
+![](../../.gitbook/assets/image%20%2858%29.png)
+
+### Snow
+
+Earth’s perennially frozen ice caps, glaciers, and sea ice constitute the major part of the cryosphere, but winter snow and seasonally frozen ground also play an important role in Earth’s climate system. In the northern hemisphere, almost one-fourth of land area is covered by snow and frozen ground during the winter, although its volume is still much less than the volume of perennial snow and ice that covers Antarctica. As you will learn, the accumulation of snow, which occurs when the amount that falls seasonally is greater than the amount that melts, is the main contributor to the growth of glaciers and ice caps. The highly reflective surface of snow bounces sunlight back into space, thereby reducing surface air temperature. When snow melts, it becomes a major source of water for rivers and moisture for agricultural soils. However, the timing or amount of snowfall can affect people adversely. For example, a heavy late-winter snowfall can generate widespread flooding, while a snowfall deficit can lead to water rationing during the summer.
+
