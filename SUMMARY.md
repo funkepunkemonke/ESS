@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction to Earth Systems Science](README.md)
+* [Copyright](copyright.md)
 
 ## Preface
 
