@@ -1,6 +1,6 @@
 # How to Study ESS
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 ## Before Lecture: Preview
 

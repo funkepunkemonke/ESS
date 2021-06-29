@@ -2,7 +2,7 @@
 
 Earth system science is rapidly changing the way people study and think about Earth. People have always been concerned with local climate and weather; now they are also concerned with the global climate, and whether humans are causing it to change. People have always been concerned with local water availability and quality; now they are also concerned with the status of water resources and aquatic ecosystems—both freshwater and marine— around the world. From space it can be seen that winds blow dust from the Sahara desert across the Atlantic Ocean; knowing where to look, scientists can detect dust in ocean sediments and discover that it affects life in the Caribbean islands. This holistic way of thinking about interconnections and interrelationships is changing the way scientists study Earth. We have written this book to introduce students to the developing science of the Earth system. 
 
-![ NASA: Saharan Dust Feeds Amazon&apos;s Plants](../.gitbook/assets/image%20%2820%29.png)
+![ NASA: Saharan Dust Feeds Amazon&apos;s Plants](../.gitbook/assets/image%20%2837%29.png)
 
 Courses about Earth system science are being taught with increasing frequency in different academic departments. Such courses may have titles such as Global Change, Earth Science, The Global Environment, Planet Earth, or even Environmental Science, but the approach for all of them is increasingly that of studying Earth as an assemblage of interacting parts and processes.
 
@@ -10,5 +10,5 @@ The key to understanding Earth as a system of many parts is to appreciate the in
 
 The traditional way to study Earth was to consider the various parts in isolation from each other. One group of scientists studied the atmosphere, another group the oceans, still another the geosphere, and yet another, the assemblage of life forms. Communication and interaction between the different groups were once rare. Earth system science is removing barriers, and interdisciplinary interactions today are common among those who study the Earth system.
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
