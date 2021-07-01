@@ -32,3 +32,7 @@ An initial hypothesis is a reasonable explanation on the basis of current scienc
 
 In our constantly changing world, hypotheses or even theories will be modified, and none can ever be completely proved. Widely accepted ideas will be confirmed and strengthened by the work of many scientists, but it is always possible that the next person to test the idea will discover a slightly different result and challenge part, or all, of the original hypothesis. The willingness to continually question prevailing ideas and to modify or discard them as new information becomes available is the strength of science. Science is an open book, a perpetual lie detector, limited only by the imagination and abilities of its practitioners. Given the complex nature of Earth, no scientist makes an observation, suggests a hypothesis, or develops a theory alone. The work of every scientist relies on the work of others who have gone before. Even Isaac Newton, whose law of gravity has withstood the test of time, noted, “If I have seen further, it is by standing on the shoulders of giants.” Newton stood on the shoulders of a giant who lived 700 years earlier. For without doubt one of the greatest of the Abbasid scientists was the Iraqi Ibn al-Haytham \(born in AD965\), who is regarded as the world's first physicist and as the father of the modern scientific method - long before Renaissance scholars such as Bacon and Descartes.
 
+{% embed url="https://www.youtube.com/watch?v=Jj9iNphbY88" %}
+
+
+
