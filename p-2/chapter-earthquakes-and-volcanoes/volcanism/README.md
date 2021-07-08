@@ -86,10 +86,6 @@ A recent and striking example of a short-lived cinder cone is the 1943 eruption 
 
 **Composite** **volcanoes**, also called **stratovolcanos**, has steep flanks, a symmetrical cone shape, a distinct crater, and rises prominently above the surrounding landscape. The figure at the beginning of this section shows a stratovolcano. Examples include Mount Rainier in the Cascade Range in Washington and Mount Fuji in Japan. Stratovolcanoes can have magma with felsic to mafic composition. However, felsic to intermediate magmas are most common. The term “composite” refers to the alternating layers of pyroclastic materials \(like ash\) and lava flows. The viscous nature of the intermediate and felsic magmas in subduction zones results in steep flanks and explosive eruption styles. Stratovolcanoes are made of alternating lava flows and ash.
 
-{% embed url="https://youtu.be/Qc0w9bklDB0" %}
-
-
-
 #### Calderas
 
 **Calderas** are generally large \(some up to 15 miles in diameter\), steep-walled, basin-shaped depressions formed by the collapse of a volcanic edifice into an emptying magma chamber and although the word caldera only refers to the vent, many use calderas as a volcano type, typically formed by high-viscosity felsic volcanism with high volatile content. Crater Lake, Yellowstone, and Long Valley Caldera are good examples. At Crater Lake National Park in Oregon, about 6,800 years ago, Mount Mazama was a composite volcano that erupted in a sizeable explosive blast, ejecting massive volcanic ash. The eruption rapidly drained the underlying magma chamber causing the top to collapse into it, forming a significant depression that later filled with water. Today a resurgent dome is found rising through the lake as a cinder cone, called Wizard Island.
