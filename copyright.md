@@ -8,7 +8,7 @@ You may share and adapt this work for noncommercial purposes as long as you give
 
 **--------------------------**
 
-**Authors:** Amanda E. Suzzi, the class of GEOG1000
+**Authors:** Amanda E. Suzzi, the students of GEOG1000: GoldSheng Lee, Yashira Pion, and Anthony Watson
 
  **Editors:**
 
