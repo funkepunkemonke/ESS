@@ -2,13 +2,27 @@
 
 ## Key Terms and Concepts
 
+* Earth system science
+* father of geology
+* Gaia Hypothesis 
+* oblate spheroid
+* hemisphere
+* Geosphere \(Lithosphere\)
+* Hydrosphere
+* Cryosphere
+* Biosphere
+* Atmosphere
 * asthenosphere 
-* climate 
-* climate system 
-* Earth system 
-* lithosphere 
 * plate tectonic system
-* Geocentric Model vs Heliocentric Model
+* convection
+* pedosphere
+* homeostasis
+* weather
+* climate
+* greenhouse effect
+* geologic scale/time
+* fossils
+* remote sensing
 
 ## Summary
 

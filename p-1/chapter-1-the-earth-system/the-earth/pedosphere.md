@@ -12,7 +12,7 @@ According to the remarkable theory of plate tectonics, the lithosphere is not a 
 
 Why do the plates move across Earth’s surface instead of locking up into a completely rigid shell? The forces that push and pull the plates come from the mantle. Driven by Earth’s internal heat engine, hot mantle material rises at boundaries where plates separate, forming new lithosphere. The lithosphere cools and becomes more rigid as it moves away from these boundaries, eventually sinking back into the mantle under the pull of gravity at other boundaries where plates converge. This general process, in which hotter material rises and cooler material sinks, is called **convection**. Convection in the mantle can be compared to the pattern of movement in a pot of boiling water. Both processes transfer energy by the movement of mass, but mantle convection is much slower because the solid mantle rocks are much more resistant to deformation than ordinary fluids such as water.
 
-The convecting mantle and its overlying mosaic of lithospheric plates constitute the **plate tectonic system.** As with the climate system \(which involves a wide range of convective processes in the atmosphere and oceans\), scientists use computer simulations to study the plate tectonic system and test the agreement of their models against observations.
+The convecting mantle and its overlying mosaic of lithospheric plates constitute the **plate tectonic system.** As with the climate system \(which involves a wide range of convective processes in the atmosphere and oceans\), scientists use computer simulations to study the plate tectonic system and test the agreement of their models against observations. You will learn more about this in Chapter 3.
 
 #### Soils
 

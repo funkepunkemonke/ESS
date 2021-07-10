@@ -4,9 +4,9 @@
 
 ![water](https://live.staticflickr.com/3886/14389112331_6dbd76b3f9_z.jpg)
 
-**Water** is simply two atoms of hydrogen and one atom of oxygen bonded together. Despite its simplicity, water has remarkable properties. Water expands when it freezes, has high surface tension \(because of the polar nature of the molecules, they tend to stick together\), and others. Without water, life might not be able to exist on Earth and it certainly would not have the tremendous complexity and diversity that we see.
+Water is simply two atoms of hydrogen and one atom of oxygen bonded together. Despite its simplicity, water has remarkable properties. Water expands when it freezes, has high surface tension \(because of the polar nature of the molecules, they tend to stick together\), and others. Without water, life might not be able to exist on Earth and it certainly would not have the tremendous complexity and diversity that we see.
 
-Nearly three quarters of our planet is covered by water. All bodies of water including oceans, lakes, rivers, streams, and **groundwater** are part of the hydrosphere. Earth’s oceans contain 97% of the planet’s water, so just 3% is fresh water, water with low concentrations of salts. Most fresh water is trapped as ice in the vast glaciers and ice sheets of Greenland.
+Nearly three quarters of our planet is covered by water. All bodies of water including oceans, lakes, rivers, streams, and groundwater are part of the hydrosphere. Earth’s oceans contain 97% of the planet’s water, so just 3% is fresh water, water with low concentrations of salts. Most fresh water is trapped as ice in the vast glaciers and ice sheets of Greenland.
 
 ![Picture](https://www.opengeography.org/uploads/1/7/4/1/17412073/_186402340.png)
 

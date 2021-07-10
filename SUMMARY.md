@@ -27,6 +27,7 @@
   * [End of Chapter Summary](p-1/chapter-1-the-earth-system/end-of-chapter-summary.md)
   * [Exercise: Visit Your Local Study Site](p-1/chapter-1-the-earth-system/chapter-1-assignment-visit-your-local-study-site.md)
 * [Chapter 2: Science and Discovery](p-1/chapter-2/README.md)
+  * [Science is a Detective Story](p-1/chapter-2/science-is-a-detective-story.md)
   * [Tools Used by Earth Scientists](p-1/chapter-2/tools-used-by-earth-scientists.md)
   * [Doing Science](p-1/chapter-2/doing-science.md)
   * [Key Reading: Kia pono te mahi putaiao—doing science in theright spirit](p-1/chapter-2/key-reading-kia-pono-te-mahi-putaiao-doing-science-in-theright-spirit.md)
