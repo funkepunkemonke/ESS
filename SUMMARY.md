@@ -23,7 +23,7 @@
     * [Biosphere](p-1/chapter-1-the-earth-system/the-earth/biosphere.md)
     * [Atmosphere](p-1/chapter-1-the-earth-system/the-earth/atmosphere.md)
   * [An Overview of Geologic Time](p-1/chapter-1-the-earth-system/an-overview-of-geologic-time.md)
-  * [The Limitations and Challenges of Understanding Earth Systems](p-1/chapter-1-the-earth-system/the-limitations-and-challenges-of-understanding-earth-systems.md)
+  * [Observing and Measuring Earth Systems](p-1/chapter-1-the-earth-system/observing-and-measuring-earth-systems.md)
   * [End of Chapter Summary](p-1/chapter-1-the-earth-system/end-of-chapter-summary.md)
   * [Exercise: Visit Your Local Study Site](p-1/chapter-1-the-earth-system/chapter-1-assignment-visit-your-local-study-site.md)
 * [Chapter 2: Science and Discovery](p-1/chapter-2/README.md)
